@@ -6,3 +6,4 @@ echo " the  directory is OK"
 else
 echo " the  directory is error"
 fi
+

@@ -18,3 +18,4 @@ status)
 	echo "你可以使用$0 start|stop|status来运行它"
 	;;
 esac
+

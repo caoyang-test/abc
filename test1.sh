@@ -12,3 +12,4 @@ echo "你输入的是 ${V1}";
 exit
 fi
 done
+

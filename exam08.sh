@@ -8,3 +8,4 @@ echo "该生可以入学"
 else
 echo "该生不可以入学"
 fi
+

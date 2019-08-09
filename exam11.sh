@@ -14,3 +14,4 @@ echo "excellent"
 else
 echo "你输入的分值有误 应在0-100之间"
 fi
+

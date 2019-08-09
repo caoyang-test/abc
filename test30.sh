@@ -9,4 +9,3 @@ echo "${num}*${num}=$((num*num))"
 ((num++))
 done
 
-

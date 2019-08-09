@@ -12,3 +12,4 @@ else
 echo ${num}
 fi
 done
+

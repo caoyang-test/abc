@@ -9,3 +9,4 @@ touch /lesson1/file1
 echo "hello" > /lesson1/file1
 #if
 #echo "执行完成 创建了目录lesson1 编写了文件"
+

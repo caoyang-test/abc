@@ -9,3 +9,4 @@ do
 	SUM=`expr $SUM + $V1`
 done
 echo $SUM
+

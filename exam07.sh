@@ -22,3 +22,4 @@ cat /var/log/message1000 > /var/log/messages
 }
 
 clear_log
+
